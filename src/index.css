@@ -12,8 +12,8 @@
   --fs-6xl: 32.44px;
   --fs-7xl: 36px;
   --fs-8xl: 41px;
-  --fs-9xl: 108.22px;
-  --fs-79: 79.05px;
+  --fs-9xl: 80.22px;
+  --fs-79: 65.05px;
   /* color */
   --color-yellow: #FC9800;
   --color-grey: #757575;
@@ -104,7 +104,7 @@
 }
 
 .lh-130 {
-  line-height: 130.97px;
+  line-height: 100.97px;
 }
 
 .lh-24 {
@@ -144,7 +144,7 @@
 }
 
 .lh-95 {
-  line-height: 95.67px;
+  line-height: 60.67px;
 }
 
 @media (min-width:576px) {
@@ -161,10 +161,15 @@
     --fs-7xl: 48px;
     --fs-8xl: 54px;
     --fs-9xl: 108.22px;
+    --fs-79: 79.05px;
   }
 
   .text-14 {
     font-size: var(--fs-sm);
+  }
+
+  .lh-95 {
+    line-height: 95.67px;
   }
 
   .text-1483 {
@@ -275,6 +280,7 @@
     --fs-7xl: 48px;
     --fs-8xl: 64px;
     --fs-9xl: 108.22px;
+    --fs-79: 79.05px;
   }
 
   .text-14 {
@@ -389,6 +395,7 @@
     --fs-7xl: 48px;
     --fs-8xl: 52px;
     --fs-9xl: 108.22px;
+    --fs-79: 79.05px;
   }
 
   .text-14 {
@@ -503,6 +510,7 @@
     --fs-7xl: 48px;
     --fs-8xl: 64px;
     --fs-9xl: 108.22px;
+    --fs-79: 79.05px;
   }
 
   .text-14 {
@@ -617,6 +625,7 @@
     --fs-7xl: 48px;
     --fs-8xl: 64px;
     --fs-9xl: 108.22px;
+    --fs-79: 79.05px;
   }
 
   .text-14 {

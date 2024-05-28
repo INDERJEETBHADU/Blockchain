@@ -21,7 +21,10 @@
     border: 1px solid transparent;
 
 }
-.w_fit{width: fit-content;}
+
+.w_fit {
+    width: fit-content;
+}
 
 .nav_padding {
     padding-top: 35.92px;
@@ -38,6 +41,10 @@ ul {
 }
 
 /*++++++++++++++++++++++++++++ HERO+++++++++++++++++++++++++ */
+.icon_width {
+    max-width: 76px;
+}
+
 .para_hero_max_w {
     max-width: 538px;
 }
