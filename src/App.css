@@ -292,6 +292,12 @@ ul {
 }
 
 /* +++++++++++++++++++++++++++++++++++News++++++++++++++++++++++++++== */
+.bg_img_news{
+    background-image: url("../src/assets/images/webp/news_bg_img.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
 .mobile_pos {
     top: 6%;
     left: 3%;

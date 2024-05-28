@@ -7,7 +7,7 @@ import laptop_svg from "../assets/images/svg/laptop_svg.svg"
 function News() {
   return (
     <>
-      <div className=" position-relative">
+      <div className=" position-relative bg_img_news">
         <div className="container">
           <div className=" text-center pt_50">
             <CommonHeading text="LATEST NEWS" color="text-black" />
