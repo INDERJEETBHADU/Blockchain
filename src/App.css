@@ -112,7 +112,7 @@ ul {
 
 /* ++++++++++++++++++++++--------about---+++++++++++++++++++++++== */
 .bg_about_img {
-    background-image: url("../src/assets/images/webp/grid_img.png");
+    background-image: url("../src/assets/images/webp/grid_img.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -209,7 +209,7 @@ ul {
 }
 
 .utility_bg_img {
-    background-image: url("../src/assets/images/webp/utility_bg.png");
+    background-image: url("../src/assets/images/webp/utility_bg.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -270,7 +270,7 @@ ul {
 }
 
 .bg_img_ecosystem {
-    background-image: url("../src/assets/images/webp/ecosystem_bg_img.png");
+    background-image: url("../src/assets/images/webp/ecosystem_bg_img.webp");
     background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;

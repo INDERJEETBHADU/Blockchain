@@ -25,14 +25,20 @@ function Footer() {
                     QUICK LINKS
                   </h2>
                   <ul>
-                    <li className=" mb-0 mt-4 ff-inter fw-normal text-16 lh-25 text-white">
-                      Twitter
+                    <li className=" mb-0 mt-4 ff-inter fw-normal text-16 lh-25 ">
+                      <a className=" text-white" href="">
+                        Twitter
+                      </a>
                     </li>
-                    <li className=" mb-0 mt-3  ff-inter fw-normal text-16 lh-25 text-white">
-                      Telegram
+                    <li className=" mb-0 mt-3  ff-inter fw-normal text-16 lh-25 ">
+                      <a className=" text-white" href="">
+                        Telegram
+                      </a>
                     </li>
-                    <li className=" mb-0 mt-3 ff-inter fw-normal text-16 lh-25 text-white">
-                      DexTools
+                    <li className=" mb-0 mt-3 ff-inter fw-normal text-16 lh-25 ">
+                      <a className=" text-white" href="">
+                        DexTools
+                      </a>
                     </li>
                   </ul>
                 </div>

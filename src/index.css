@@ -8,7 +8,7 @@
   --fs-2xl: 24px;
   --fs-3xl: 32px;
   --fs-4xl: 32.2px;
-  --fs-5xl: 36px;
+  --fs-5xl: 26px;
   --fs-6xl: 32.44px;
   --fs-7xl: 36px;
   --fs-8xl: 41px;
@@ -132,7 +132,7 @@
 }
 
 .lh-43 {
-  line-height: 43.57px;
+  line-height: 31.57px;
 }
 
 .lh-29 {
@@ -156,7 +156,7 @@
     --fs-2xl: 24px;
     --fs-3xl: 32px;
     --fs-4xl: 32.2px;
-    --fs-5xl: 36px;
+    --fs-5xl: 30px;
     --fs-6xl: 40.44px;
     --fs-7xl: 48px;
     --fs-8xl: 54px;
@@ -384,7 +384,7 @@
     --fs-2xl: 24px;
     --fs-3xl: 26px;
     --fs-4xl: 32.2px;
-    --fs-5xl: 36px;
+    --fs-5xl: 32px;
     --fs-6xl: 40.44px;
     --fs-7xl: 48px;
     --fs-8xl: 52px;
