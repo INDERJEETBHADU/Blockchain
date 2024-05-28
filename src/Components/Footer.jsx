@@ -10,7 +10,7 @@ function Footer() {
         <div className="container">
           <div className="row">
             <div className="col-lg-4 col-sm-4 col-md-4 col-sm-6 col-6 ">
-              <h2 className=" mb-0 cursor_pointer  ff-inter fw_900   text-79 lh-95  text-white ">
+              <h2 className=" mb-0 w_fit cursor_pointer  ff-inter fw_900   text-79 lh-95  text-white ">
                 G<span className=" color-yellow">G</span>
               </h2>
               <p className=" mb-0 mt-4 ff-inter fw-normal  text-16  lh-25 text-white">

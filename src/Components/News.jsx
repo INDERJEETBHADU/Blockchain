@@ -2,7 +2,7 @@ import React from "react";
 import CommonHeading from "../common/CommonHeading";
 import { Newscard } from "../common/Helper";
 import mobile_svg from "../assets/images/svg/mobile_svg.svg";
-import laptop_svg from "../assets/images/svg/laptop_svg.svg"
+import laptop_svg from "../assets/images/svg/laptop_svg.svg";
 
 function News() {
   return (
@@ -33,16 +33,16 @@ function News() {
                     {data.pheragraph}
                   </p>
                   <div className=" d-flex align-items-center justify-content-between pr-22 pt-27">
-                    <p className=" text-black   fw-normal text-1483 d-flex align-items-center gap-1   ff-poppins mb-0">
+                    <p className=" text-black  cursor_pointer  fw-normal text-1483 d-flex align-items-center gap-1   ff-poppins mb-0">
                       {data.commentsvg} <span>{data.text28}</span>
                     </p>
-                    <p className=" text-black  fw-normal text-1483 d-flex align-items-center gap-1   ff-poppins mb-0">
+                    <p className=" text-black cursor_pointer  fw-normal text-1483 d-flex align-items-center gap-1   ff-poppins mb-0">
                       {data.Refreshsvg} <span>{data.text5}</span>
                     </p>
-                    <p className=" text-black  fw-normal text-1483 d-flex align-items-center gap-1   ff-poppins mb-0">
+                    <p className=" text-black cursor_pointer  fw-normal text-1483 d-flex align-items-center gap-1   ff-poppins mb-0">
                       {data.Likesvg} <span>{data.text21}</span>
                     </p>
-                    <p className=" text-black  fw-normal text-1483 d-flex align-items-center gap-1   ff-poppins mb-0">
+                    <p className=" text-black cursor_pointer  fw-normal text-1483 d-flex align-items-center gap-1   ff-poppins mb-0">
                       {data.sharesvg}
                     </p>
                   </div>

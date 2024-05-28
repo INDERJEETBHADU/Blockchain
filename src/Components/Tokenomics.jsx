@@ -61,7 +61,7 @@ function Tokenomics() {
                           {" "}
                           Marketing & Partnerships
                         </h2>
-                        <p className=" mb-0 ff-inter  fw-semibold text-32 lh-30 mt-2 text-center">
+                        <p className=" mb-0 ff-inter text-black  fw-semibold text-32 lh-30 mt-2 text-center">
                           5%
                         </p>
                       </div>
@@ -70,7 +70,7 @@ function Tokenomics() {
                           {" "}
                           Community Development
                         </h2>
-                        <p className=" mb-0 ff-inter  fw-semibold text-32 lh-30 mt-2 text-center">
+                        <p className=" mb-0 ff-inter text-black  fw-semibold text-32 lh-30 mt-2 text-center">
                           15%
                         </p>
                       </div>
@@ -82,7 +82,7 @@ function Tokenomics() {
                             {" "}
                             Reserve
                           </h2>
-                          <p className=" mb-0 ff-inter  fw-semibold text-32 lh-30 mt-2 text-center">
+                          <p className=" mb-0 ff-inter text-black  fw-semibold text-32 lh-30 mt-2 text-center">
                             5%
                           </p>
                         </div>
@@ -91,7 +91,7 @@ function Tokenomics() {
                             {" "}
                             Public Sale
                           </h2>
-                          <p className=" mb-0 ff-inter  fw-semibold text-32 lh-30 mt-2 text-center">
+                          <p className=" mb-0 ff-inter text-black  fw-semibold text-32 lh-30 mt-2 text-center">
                             45%
                           </p>
                         </div>
@@ -101,7 +101,7 @@ function Tokenomics() {
                           {" "}
                           Ecosystem Fund
                         </h2>
-                        <p className=" mb-0 text-center ff-inter  fw-semibold text-32 lh-30 mt-2 text-center">
+                        <p className=" mb-0 text-center text-black ff-inter  fw-semibold text-32 lh-30 mt-2 text-center">
                           10%
                         </p>
                       </div>
@@ -111,7 +111,7 @@ function Tokenomics() {
                             {" "}
                             Team & Adisors
                           </h2>
-                          <p className=" mb-0 text-center ff-inter  fw-semibold text-32 lh-30 mt-2 text-center">
+                          <p className=" mb-0 text-center text-black ff-inter  fw-semibold text-32 lh-30 mt-2 text-center">
                             20%
                           </p>
                         </div>
@@ -124,7 +124,7 @@ function Tokenomics() {
                         {" "}
                         Team & Adisors
                       </h2>
-                      <p className=" mb-0 text-center ff-inter  fw-semibold text-32 lh-30 mt-2 text-center">
+                      <p className=" mb-0 text-center text-black ff-inter  fw-semibold text-32 lh-30 mt-2 text-center">
                         20%
                       </p>
                     </div>

@@ -35,7 +35,7 @@ function Hero() {
               <CommonBtn text="Buy $GrayGensle" bgcolor="bg-transparent" />
               <CommonBtn text="How To Buy?" bgcolor="bg-transparent" />
             </div>
-            <div className="input-container mt_29 d-flex  align-items-center">
+            <div className="input-container cursor_pointer mt_29 d-flex  align-items-center">
               <input
                 type="text"
                 value={inputValue}
@@ -43,7 +43,10 @@ function Hero() {
                 placeholder="dwqjddj324dnewdne3dewrrets"
                 className=" ff-inter fw-normal text-20  lh-30 text-white bg-transparent border-0"
               />
-              <label htmlFor="file-upload" className="file-upload-label">
+              <label
+                htmlFor="file-upload"
+                className="cursor_pointer file-upload-label"
+              >
                 <FileIcon />
               </label>
               <input
